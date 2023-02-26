@@ -9,7 +9,8 @@ This game is developed on the Unity Platform and coded in C#. It is a near clone
 
 This game is a 'Move to Catch' based game wherein the user can control the Game Object here a ball to get the points. The points can be positive or negative thus keeping a watch at the score. The ball moves within a container and can be controlled using the keyboard keys. Score and Pause exit option and score display are also some features present in the game
 
-![Screenshot (1748)](https://user-images.githubusercontent.com/86222578/221397400-b186c805-c7c9-4138-8c08-2d96eef64f0a.png)
+![Screenshot (1750)](https://user-images.githubusercontent.com/86222578/221397627-e7da3630-809a-4713-81bf-3801f3e26d87.png)
+
 Both the games are player controlled and uses Up, Down , Left , Right keyboard keys for motion of game objects.
 
 
