@@ -10,3 +10,9 @@ This game is a 'Move to Catch' based game wherein the user can control the Game 
 
 
 Both the games are player controlled and uses Up, Down , Left , Right keyboard keys for motion of game objects.
+
+
+![Screenshot (1747)](https://user-images.githubusercontent.com/86222578/221397384-87be5f31-0b2b-421e-bd43-ef67f416f8e6.png)
+
+
+![Screenshot (1748)](https://user-images.githubusercontent.com/86222578/221397400-b186c805-c7c9-4138-8c08-2d96eef64f0a.png)
