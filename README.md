@@ -11,6 +11,13 @@ This game is a 'Move to Catch' based game wherein the user can control the Game 
 
 ![Screenshot (1750)](https://user-images.githubusercontent.com/86222578/221397627-e7da3630-809a-4713-81bf-3801f3e26d87.png)
 
-Both the games are player controlled and uses Up, Down , Left , Right keyboard keys for motion of game objects.
+3.Clicky Mouse
+The player needs to use her mouse and click on objects labeled as good which will spring up high at random speeds and if she clicks/catches banned objects she will lose the game. Points would be scored according to the catches the player makes.
+
+![Screenshot (28)](https://user-images.githubusercontent.com/86222578/230338424-20ef8744-0d32-4b05-b203-cae64ffb5365.png)
+
+
+
+All the games are player controlled and uses Up, Down , Left , Right keyboard keys & Mouse for motion of game objects.
 
 
